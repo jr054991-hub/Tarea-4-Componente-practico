@@ -1,4 +1,4 @@
-#yenifer
+#Sistema Integral de Gestión CSR - Software FJ
 
 # Importaciones estándar del sistema _ Yenifer Gonzalez
 import tkinter as tk
