@@ -1,4 +1,3 @@
-
 from abc import ABC, abstractmethod  # Para clases y métodos abstractos _ Yenifer Gonzalez
 from exceptions import (
     ServicioNoDisponibleError, CapacidadExcedidaError,
