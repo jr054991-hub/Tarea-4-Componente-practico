@@ -5,7 +5,6 @@ from exceptions import (
     ServicioNoDisponibleError, ParametroFaltanteError
 )
 
-
 class Reserva:
     """
     Clase que representa una reserva en el sistema CSR.
